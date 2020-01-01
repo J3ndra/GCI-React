@@ -1,6 +1,8 @@
 {
-  "name": "googlecodein",
+  "name": "codeinapp",
   "version": "0.1.0",
+  "description": "React App that created by Junianto, one of the Google Code-In Student",
+  "repository": "https://github.com/J3ndra/GCI-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
